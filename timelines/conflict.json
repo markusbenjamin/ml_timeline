@@ -1,0 +1,41 @@
+[
+  {
+    "type": "period",
+    "dateStart": "1914.07.28.",
+    "dateEnd": "1918.11.11.",
+    "label": "I. VH",
+    "color": "#ed9907"
+  },
+  {
+    "type": "period",
+    "dateStart": "1919.03.21.",
+    "dateEnd": "1919.08.01.",
+    "label": "Tk. hadműveletek",
+    "color": "#c91a06"
+  },
+  {
+    "type": "event",
+    "date": "1938.03.12.",
+    "label": "Anschluss",
+    "place": "Bécs"
+  },
+  {
+    "type": "event",
+    "date": "1942.06.22.",
+    "label": "Németország megtámadja a Szovjetuniót",
+    "place": "Bécs"
+  },
+  {
+    "type": "event",
+    "date": "1943.02.02.",
+    "label": "Sztálingrád visszaszerzése",
+    "place": "Sztálingrád"
+  },
+  {
+    "type": "period",
+    "dateStart": "1939.09.01.",
+    "dateEnd": "1945.09.02.",
+    "label": "II. VH",
+    "color": "#6e4c03"
+  }
+]

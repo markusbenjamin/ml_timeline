@@ -1,0 +1,96 @@
+/* Make sure container can size itself, but it's up to you how tall it should be */
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  font-family: sans-serif;
+  overflow: hidden;
+}
+
+#timeline-container {
+  width: 100%;
+  height: 100%;
+  background: #ffffff;
+  position: relative;
+}
+
+/* The main SVG spans the container’s width/height */
+#main-svg {
+  width: 100%;
+  height: 100%;
+}
+
+/* Timelines */
+.timeline-path {
+  stroke: #333333;
+}
+
+/* Timelines' labels */
+.timeline-label {
+  fill: "black";
+  font-size: 16px;
+  text-anchor: middle;
+}
+
+/* Period bars (drawn behind points) */
+.period-bar {
+  fill: none;
+}
+
+/* Labels for periods */
+.period-label {
+  fill: #333;
+  text-anchor: middle;
+  /* center horizontally */
+}
+
+/* Ticks for point events  */
+.event-tick {
+  stroke: #333333;
+  fill: none;
+}
+
+/* Labels for point events */
+.event-label {
+  fill: #333;
+  text-anchor: start;
+  /* center horizontally */
+}
+
+/* Dates for point events */
+.event-date {
+  fill: #333;
+  text-anchor: end;
+  /* center horizontally */
+}
+
+.grid-line-primary {
+  stroke: #8d8c8cb7;
+  stroke-width: 2;
+  stroke-dasharray: none;
+}
+
+.grid-line-secondary {
+  stroke: #bab7b7;
+  stroke-width: 1.5;
+  stroke-dasharray: 4, 4;
+}
+
+.grid-line-ternary {
+  stroke: rgb(227, 226, 226);
+  stroke-width: 1;
+  stroke-dasharray: 2, 2;
+}
+
+.grid-label-primary {
+  font-size: 12px;
+  font-weight: bold;
+  fill: #8d8c8c5a
+}
+
+.grid-label-secondary {
+  font-size: 12px;
+  fill: gray;
+}

@@ -1,0 +1,70 @@
+[
+  {
+    "type": "period",
+    "dateStart": "1867.06.08.",
+    "dateStart1": "1890.06.22.",
+    "dateEnd": "1918.10.31.",
+    "label": "Osztrák-Magyar Monarchia",
+    "color": "#f5ce42"
+  },
+  {
+    "type": "period",
+    "dateStart": "1918.10.31.",
+    "dateEnd": "1919.03.21.",
+    "label": "Népköztársaság",
+    "color": "#5d42f5"
+  },
+  {
+    "type": "period",
+    "dateStart": "1919.03.21.",
+    "dateEnd": "1919.08.01.",
+    "label": "Tanácsköztársaság",
+    "color": "#c91a06"
+  },
+  {
+    "type": "period",
+    "dateStart": "1920.03.01.",
+    "dateEnd": "1944.03.19.",
+    "label": "Horthy-korszak",
+    "color": "#0b55b5"
+  },
+  {
+    "type": "event",
+    "date": "1938.11.02.",
+    "label": "I. bécsi döntés",
+    "place":"Bécs"
+  },
+  {
+    "type": "event",
+    "date": "1940.08.30.",
+    "label": "II. bécsi döntés",
+    "place":"Bécs"
+  },
+  {
+    "type": "period",
+    "dateStart": "1944.03.19.",
+    "dateEnd": "1945.04.04.",
+    "label": "Német megszállás",
+    "color": "#6e4c03"
+  },
+  {
+    "type": "period",
+    "dateStart": "1947.08.31.",
+    "dateEnd": "1956.10.23.",
+    "label": "Rákosi-korszak",
+    "color": "#fc5603"
+  },
+  {
+    "type": "period",
+    "dateStart": "1956.11.12.",
+    "dateEnd": "1989.10.23.",
+    "dateEnd1": "1962.01.28.",
+    "label": "Kádár-korszak",
+    "color": "#fca095"
+  },
+  {
+    "type": "event",
+    "date": "1956.11.04.",
+    "label": "'56"
+  }
+]

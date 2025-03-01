@@ -1,0 +1,23 @@
+{   
+    "mo": {
+        "line": false,
+        "label":false,
+        "vPos":0.15,
+        "showDates":false,
+        "scaleLabels":true
+    },
+    "conflict": {
+        "line": false,
+        "label":false,
+        "vPos":0.325,
+        "showDates":false,
+        "scaleLabels":true
+    },
+    "ml": {
+        "line": true,
+        "label":"id. Márkus László",
+        "vPos":0.45,
+        "showDates":true,
+        "scaleLabels":false
+    }
+}

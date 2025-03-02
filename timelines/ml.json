@@ -7,6 +7,20 @@
         "place": "Nagyzsennye"
     },
     {
+        "type": "period",
+        "dateStart": "1916.05.01.",
+        "dateEnd": "1918.07.31.",
+        "label": "83-mas gyalogezred hadnagya (3. század)",
+        "place": "?",
+        "color": "#f5ce42"
+    },
+    {
+        "type": "event",
+        "date": "1918.05.11.",
+        "label": "Házasság Mózer Erzsébettel",
+        "place": "Szombathely"
+    },
+    {
         "type": "event",
         "date": "1919.06.28.",
         "label": "László születése",
@@ -14,9 +28,24 @@
     },
     {
         "type": "event",
+        "date": "1920.05.17.",
+        "label": "Felmentik magánlaksértés vádja alól",
+        "place": "Szombathely",
+        "source": "Magyar Királyi Belügyminiszterium Államrendészeti Kartotékrendszere, Csendőrkartonok"
+    },
+    {
+        "type": "event",
         "date": "1921.03.09.",
         "label": "Zolti születése",
         "place": "Szombathely"
+    },
+    {
+        "type": "period",
+        "dateStart": "1919.08.01.",
+        "dateEnd": "1920.04.01.",
+        "label": "Rendőrfelügyelőként teljesít szolgálatot",
+        "place": "Szombathely",
+        "color": "#ffc400"
     },
     {
         "type": "event",
@@ -34,10 +63,10 @@
     },
     {
         "type": "event",
-        "date": "1937.11.15.",
-        "label": "Antiszemita felszólalás",
+        "date": "1937.11.29.",
+        "label": "Antiszemita felszólalás (razziát követel)",
         "place": "Szombathely",
-        "source": "Az antiszemitizmus alakváltozatai"
+        "source": "Az antiszemitizmus alakváltozatai; Nemzeti Ujság, 1937.11.30."
     },
     {
         "type": "event",
@@ -48,35 +77,75 @@
     },
     {
         "type": "event",
-        "date": "1938.02.15.",
+        "date": "1938.02.21.",
+        "label": "A Vasvármegyei Közgyűlésben a kormány támogatását indítványozza",
+        "place": "Szombathely",
+        "source": "Vasvármegye Hivatalos Lapja, 1938.02.15."
+    },
+    {
+        "type": "event",
+        "date": "1938.05.18.",
         "label": "Kormányt támogatva felszólal",
-        "place": "Szombathely"
+        "place": "Szombathely",
+        "source": "Az antiszemitizmus alakváltozatai; 8 Órai Ujság, 1937.05.20."
     },
     {
         "type": "event",
         "date": "1938.06.15.",
         "label": "MNSzP gyűlésen felszólal",
-        "place": "Pőse"
+        "place": "Pőse",
+        "source": "Magyarság, 1938.06.23."
+    },
+    {
+        "type": "event",
+        "date": "1938.07.01.",
+        "label": "Festetics-féle nyilas párt gyűlése",
+        "place": "Szombathely",
+        "source": "Magyarság, 1938.07.02."
+    },
+    {
+        "type": "event",
+        "date": "1937.10.24.",
+        "label": "Megnyitja a Festetics-féle nyilas párt gyűlését",
+        "place": "Szombathely",
+        "source": "Magyarság, 1937.10.26."
     },
     {
         "type": "period",
-        "dateStart": "1937.01.01.",
-        "dateEnd": "1938.07.02.",
-        "label": "Városi tisztviselő",
+        "dateStart": "1937.10.01.",
+        "dateEnd": "1938.07.19.",
+        "label": "Festetics-féle nyilaspárt helyi vezetője",
         "place": "Szombathely",
-        "color": "#61d2ff"
+        "color": "#ae740f"
     },
     {
         "type": "event",
-        "date": "1938.07.02.",
+        "date": "1938.07.01.",
         "label": "Felfüggesztik, mert a nyilas párt tagja",
-        "place": "Szombathely"
+        "place": "Szombathely",
+        "source":"Zalamegyei Ujság, 1938.07.02."
     },
     {
         "type": "event",
-        "date": "1938.07.19.",
-        "label": "Kilép a nyilas pártból",
-        "place": "Szombathely"
+        "date": "1938.07.18.",
+        "label": "Ismételt felszólításra kilép a nyilas pártból",
+        "place": "Szombathely",
+        "source":"Zalamegyei Ujság, 1938.07.19."
+    },
+    {
+        "type": "event",
+        "date": "1938.09.11.",
+        "label": "Visszahelyezik állásába, rosszalásra ítélik",
+        "place": "Szombathely",
+        "source": "Soproni Hírlap, 1938.09.11."
+    },
+    {
+        "type": "period",
+        "dateStart": "1940.08.05.",
+        "dateEnd": "1940.09.27.",
+        "label": "Munkaszolgálatos árvízi védekezés Csongrádon",
+        "place": "Csongrád",
+        "color": "#6dd1ff"
     },
     {
         "type": "period",
@@ -120,7 +189,29 @@
         "type": "event",
         "date": "1943.01.14.",
         "label": "Elrendeli a visszavonulást",
-        "place": "Kőszeg"
+        "place": "Storoshewoje-Uryw",
+        "source":"Harctudósítása"
+    },
+    {
+        "type": "event",
+        "date": "1943.03.30.",
+        "label": "Harctudósítása",
+        "place": "Szombathely",
+        "source":"A második magyar hadsereg iratai"
+    },
+    {
+        "type": "event",
+        "date": "1943.07.31.",
+        "label": "Városi tisztviselőként szavaz",
+        "place": "Szombathely",
+        "source":"Vasvármegye Hivatalos Lapja, 1943.07.31."
+    },
+    {
+        "type": "event",
+        "date": "1943.12.15.",
+        "label": "Városi tisztviselőként szavaz",
+        "place": "Szombathely",
+        "source":"Vasvármegye Hivatalos Lapja, 1943.12.15."
     },
     {
         "type": "period",
@@ -135,7 +226,7 @@
         "date": "1943.10.02.",
         "label": "Szolgálati vétség miatt felfüggesztik",
         "place": "Kőszeg",
-        "source":"Szabad Vasmegye, 1945.12.01."
+        "source": "Szabad Vasmegye, 1945.12.01."
     },
     {
         "type": "event",

@@ -2,21 +2,21 @@
     "mo": {
         "line": false,
         "label":false,
-        "vPos":0.15,
+        "vPos":0.2,
         "showDates":false,
         "scaleLabels":true
     },
     "conflict": {
         "line": false,
         "label":false,
-        "vPos":0.325,
+        "vPos":0.35,
         "showDates":false,
         "scaleLabels":true
     },
     "ml": {
         "line": true,
         "label":"id. Márkus László",
-        "vPos":0.45,
+        "vPos":0.5,
         "showDates":true,
         "scaleLabels":false
     }

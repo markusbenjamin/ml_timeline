@@ -2,14 +2,14 @@
     "mo": {
         "line": false,
         "label":false,
-        "vPos":0.2,
+        "vPos":0.35,
         "showDates":false,
         "scaleLabels":true
     },
     "conflict": {
         "line": false,
         "label":false,
-        "vPos":0.35,
+        "vPos":0.45,
         "showDates":false,
         "scaleLabels":true
     },
